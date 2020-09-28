@@ -1,3 +1,10 @@
-li {
-    background-color: aqua;
+
+.flex{
+    display: flex;
+}
+.justify-around{
+    justify-content: space-around;
+}
+li{
+    background-color: blue;
 }
