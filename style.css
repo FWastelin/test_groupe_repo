@@ -14,9 +14,17 @@ a {
   text-decoration: none;
 }
 a li {
-  background-color: #ec9e46;
-  color: red;
+  /* background-color: #ec9e46; */
+  color: black;
+  font-size: 24px;
+  
 }
+
+header {
+  background-color: rgb(208, 228, 139);
+  padding: 10px;
+}
+
 
 .acc-title {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
